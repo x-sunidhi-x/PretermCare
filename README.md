@@ -22,7 +22,7 @@ Streamlit: Python library for building interactive web applications.
 Pandas: Data manipulation and analysis, especially for handling input data.
 NumPy: Numerical operations and array manipulation, often used in data preprocessing.
 scikit-learn: Machine learning library for data preprocessing, model training, and prediction.
-TensorFlow / Keras: Deep learning frameworks for building and training neural networks.
+TensorFlow / Keras: Deep learning frameworks for building and training neural networks.  
 **2. Frontend:**  
 React.js: JavaScript library for building user interfaces.
 HTML/CSS: Customization options are provided by React.js for layout and styling.
